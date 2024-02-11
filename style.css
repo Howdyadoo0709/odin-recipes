@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#title {
+    font-size: 50px;
+    background-color: #ff000080;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.links {
+    font-family: 'Times New Roman', Times, serif;
+}
