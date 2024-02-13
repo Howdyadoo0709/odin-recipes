@@ -1,5 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
 }
 
 
@@ -36,3 +37,4 @@ a:hover {
 a:visited {
     color: white;
 }
+
